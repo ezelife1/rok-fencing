@@ -1,0 +1,7 @@
+DOMAIN UPDATE CHECKS
+All four page canonical and og:url links match the final domain and page paths.
+All Open Graph/Twitter image URLs match https://rokfencing.com/assets/social-share.jpg.
+Structured data parses; schema URLs use final domain.
+All four pages allow indexing. robots.txt explicitly allows Facebook crawlers and references final sitemap.
+Unique page titles/descriptions retained. Local linked files and fragments checked. Social JPEG decodes at 1200 x 630. ZIP integrity checked.
+Live Meta fetch, HTTPS hosting response and indexing remain deployment checks.
